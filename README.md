@@ -26,3 +26,4 @@ Powered by	Webhook tool	Knowledge base document	Neither
 Instructions	Ask for the order ID, call the tool, and read the order results naturally	Answer only using the attached reservation policy document	Deliver escalation handoff message and end conversation
 Exit condition	Resolved or escalated if order not found	Resolved or escalated if unsupported	Escalated and ended
 The router greets the customer and asks how it can help. It listens for whether the customer needs help with an order, reservation policies, or another issue. If the request is unclear, the agent asks a short follow-up question before routing to the correct branch.
+![Workflow Canvas](screenshots/workflow-canvas.png)
