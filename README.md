@@ -27,3 +27,8 @@ Instructions	Ask for the order ID, call the tool, and read the order results nat
 Exit condition	Resolved or escalated if order not found	Resolved or escalated if unsupported	Escalated and ended
 The router greets the customer and asks how it can help. It listens for whether the customer needs help with an order, reservation policies, or another issue. If the request is unclear, the agent asks a short follow-up question before routing to the correct branch.
 ![Workflow Canvas](Workflow%20Canvas.png)
+![Branch2 Knowledge Base](Branch2%20Knowledge%20Base.png)
+![Order Lookup Tool](Order%20lookup%20tool.png)
+![Tool Config 1](Tool%20Config%201.png)
+![Tool Config 2](Tool%20Config%202.png)
+![Tool Call Success](Tool%20Call%20Success.png)
